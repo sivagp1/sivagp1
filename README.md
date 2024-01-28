@@ -22,5 +22,5 @@ Backend : Spring boot | Spring MVC
 
 Frontend : Reactjs
 
-📫 Reach me: sivaganeshp4@gmail.com
+📫 Reach me: sivaganeshp4@gmail.com or spolepal@syr.edu
 
